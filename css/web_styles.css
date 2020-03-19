@@ -169,6 +169,8 @@
 
     }
 
+
+
     .menu-icon .material-icons{
       background-color: #f90;
       color: #000;
@@ -385,4 +387,10 @@
 
   .card img.rounded-circle {
       border-radius: 50%;
+  }
+
+
+  #tweet_div,#insta_div{
+    height: 80vh;
+    overflow-y: scroll;
   }
